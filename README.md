@@ -5,4 +5,3 @@ The basic plot of this web app is that initially restaurants have the option of 
 
 Technologies used - ReactJS, NodeJS, ExpressJs, Mongodb, Axios, Redux, React Router DOM, Thunk, Mongoose, HTML, CSS, Socket.io
 
-Run the client and server files using npm start command
